@@ -1,4 +1,6 @@
-# Voice Controlled React News Application - Alan AI Voice Assistant
+# News Reader app 
+
+Voice Controlled News Application made with React.JS & Alan AI Voice Assistant
 
 ### [Live Site](https://newreader.netlify.app/)
 
