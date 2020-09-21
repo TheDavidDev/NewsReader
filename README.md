@@ -3,7 +3,6 @@
 ### [Live Site](https://newreader.netlify.app/)
 
 ![Voice Controlled React News Application](https://user-images.githubusercontent.com/51863978/93788886-75e8a780-fc31-11ea-8d17-c3e05525c4f3.png)
-<img width="720" alt="newsreader" src="https://user-images.githubusercontent.com/51863978/93788886-75e8a780-fc31-11ea-8d17-c3e05525c4f3.png">
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
