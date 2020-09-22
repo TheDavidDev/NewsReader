@@ -44,7 +44,7 @@ const NewsCards = ({ articles, activeArticle }) => {
               item
               xs={12}
               sm={6}
-              md={4}
+              md={3}
               ls={3}
               className={classes.infoCard}
             >
