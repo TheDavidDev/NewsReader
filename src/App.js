@@ -72,7 +72,7 @@ const App = () => {
           </div>
         ) : null}
         <img
-          src="https://alan.app/voice/images/previews/preview.jpg"
+          src="https://user-images.githubusercontent.com/51863978/94241810-6f9a4a00-ff15-11ea-80d5-6521d54246ca.png"
           className={classes.alanLogo}
           alt="alan logo"
         />
